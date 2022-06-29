@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Joan&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&display=swap');
+
+
+body{
+
+	background-image: url(../imagenes/Raton.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+h1{
+	font-size: 40px;
+	font-family: 'Roboto Slab', serif;
+	color: blac;
+}
+h2{
+	font-size: 30px;
+	font-family: 'Patua One', cursive;
+	color: red;
+}
+h3{
+	font-size: 30px;
+	font-family: 'Patua One', cursive;
+	color: orange;
+}
+h4{
+	font-size: 30px;
+	color: black;
+}
+.redees{
+	text-align: center;
+	padding-top: 45px;
+	padding-bottom: 45px;
+}
+.redees li{
+	display: inline-block;
+}
+#prueba{
+	font-size: 19px;
+	font-family: 'Roboto Slab', serif;
+}
+#maps{
+	font-size: 30px;
+}
+.text-red{
+	font-family: 'Joan', serif;
+	color: orange;
+}
+
+.text-rede{
+	font-family: 'Joan', serif;
+	color: red;
+}
+
+.text-black{
+	font-family: 'Joan', serif;
+	color: black;
+}
+
+.text-center{
+	font-family: 'Joan', serif;
+	text-align: center;
+}
+.imagen{
+	width: 90%;
+}

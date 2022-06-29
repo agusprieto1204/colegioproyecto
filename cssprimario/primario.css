@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patua+One&display=swap');
+
+
+body{
+	background-image: url(../imagenes/Raton.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+.text-center{
+	text-align: center;
+}
+h1{
+	font-family: 'Roboto Slab', serif;
+	background-image: url(../imagenes/dorado.jpg);
+	color: black;
+	font-size: 40px;
+}
+h2{
+	font-family: 'Patua One', cursive;
+	font-size: 25px;
+}
+ol{
+	font-size: 20px;
+}
+
+h3{
+	font-family: 'Patua One', cursive;
+	font-size: 25px;
+}
+#turnos{
+	font-size: 20px;
+}
+#stop{
+	font-size: 17px;
+}
+.imagen{
+	width: 45%;
+}
